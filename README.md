@@ -1,4 +1,4 @@
-<img align="center"> src="https://github.com/cihanguler/cihanguler/blob/main/200.gif">
+<img align="center" src="https://github.com/cihanguler/cihanguler/blob/main/200.gif">
 
 <h1 align="center">Hi 👋, I'm Cihan Güler</h1>
 

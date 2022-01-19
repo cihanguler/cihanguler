@@ -1,4 +1,7 @@
+<img src="https://github.com/cihanguler/cihanguler/blob/main/200.gif">
+
 <h1 align="center">Hi 👋, I'm Cihan Güler</h1>
+
 <h3 align="center">Software Test Engineer / QA</h3>
 
 - 🔭 I’m currently working on **DAB**

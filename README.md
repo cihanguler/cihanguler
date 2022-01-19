@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/cihanguler/cihanguler/blob/main/2048px-Computer-screen-code-glitch-animation-gif-background-free.gif">
+<img align="center" src="https://github.com/cihanguler/cihanguler/blob/main/512px-Computer-screen-code-glitch-animation-gif-background-free.gif">
 
 <h1 align="center">Cihan Güler</h1>
 

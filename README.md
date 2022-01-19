@@ -4,9 +4,9 @@
 
 <h3 align="center">Software Test Engineer / QA</h3>
 
-- 🔭 I’m currently working on **DAB**
+- 🔭 Currently working on **Computacenter**
 
-- 📫 How to reach me **cihangueler.de@gmail.com**
+- 📫 **cihangueler.de@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

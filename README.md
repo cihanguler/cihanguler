@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/cihanguler/cihanguler/blob/main/2048px-Computer-screen-code-glitch-animation-gif-background-free.gif">
 
-<h1 align="center">Hi 👋, I'm Cihan Güler</h1>
+<h1 align="center">Cihan Güler</h1>
 
 <h3 align="center">Software Test Engineer / QA</h3>
 

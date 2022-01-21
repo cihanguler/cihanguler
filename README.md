@@ -3,7 +3,7 @@
 <h1 align="center">Cihan Gueler</h1>
 
 <h3 align="center">Software Test Engineer / QA</h3>
-
+    <div class="content">
         <div class="description">
           <h1>Cihan Gueler</h1>
           <p>
@@ -15,8 +15,8 @@
             Fast learner and adaptable to changing circumstances as well as more detail oriented and awesome
             team player.
           </p>
-          </div>
-
+        </div>
+  </div>
 - 🔭 Currently working on **Computacenter**
 
 - 📫 **cihangueler.de@gmail.com**

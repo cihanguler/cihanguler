@@ -5,7 +5,7 @@
 <h3 align="center">Software Test Engineer / QA</h3>
     <div class="content">
         <div class="description">
-          <h1>align="center"> Cihan Gueler</h1>
+          <h1></h1>
           <p>
             Extensive experience in the business world since 2011 and experience as a Test Automation Engineer since 2017.
             Sound knowledge of the Software Development Life Cycle (SDLC), the Software Test Life Cycle (STLC), the

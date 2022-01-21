@@ -20,7 +20,15 @@
 - 🔭 Currently working on **Computacenter**
 
 - 📫 **cihangueler.de@gmail.com**
-
+<div class="footer">
+      <div>
+        <h3>Follow Me</h3>
+        <p>
+          <a href="https://linkedin.com/in/cihangueler" target="_blank">Linkedin</a>
+          <a href="https://resume-one-zeta.vercel.app" target="_blank">Web</a>
+        </p>
+      </div>
+</div>
 
 <p align="left">
 </p>

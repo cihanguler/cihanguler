@@ -1,8 +1,21 @@
 <img src="https://github.com/cihanguler/cihanguler/blob/main/2048px-Computer-screen-code-glitch-animation-gif-background-free.gif">
 
-<h1 align="center">Cihan Güler</h1>
+<h1 align="center">Cihan Gueler</h1>
 
 <h3 align="center">Software Test Engineer / QA</h3>
+
+        <div class="description">
+          <h1>Cihan Gueler</h1>
+          <p>
+            Extensive experience in the business world since 2011 and experience as a Test Automation Engineer since 2017.
+            Sound knowledge of the Software Development Life Cycle (SDLC), the Software Test Life Cycle (STLC), the
+            Defect Life Cycle, the Agile Scrum method. Knowledge of database, API testing and automation testing
+            with automation tools Selenium, Cucumber, Gherkin, JUnit, TestNG in DDT, BDD frameworks with Java.
+            Strong analytical and logical thinking skills, focused on solving problems. 
+            Fast learner and adaptable to changing circumstances as well as more detail oriented and awesome
+            team player.
+          </p>
+          </div>
 
 - 🔭 Currently working on **Computacenter**
 

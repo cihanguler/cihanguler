@@ -43,7 +43,7 @@
       <div>
         <h3>Follow Me</h3>
         <p>
-          <a href="https://linkedin.com/in/cihangueler" target="_blank">Linkedin</a>  <p/> 
+          <a href="https://linkedin.com/in/cihangueler" target="_blank"rel="noreferrer"> <img src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" alt="python"Linkedin width="40" height="40"/>Linkedin</a>  <p/> 
           <a href="https://resume-cihanguler.vercel.app/" target="_blank">Website</a>   </p>
           <a href="mailto:cihangueler.de@gmail.com" target="_blank">E-Mail</a>   </p>
       </div>

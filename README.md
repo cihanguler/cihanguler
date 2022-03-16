@@ -17,9 +17,9 @@
           </p>
         </div>
   </div>
-- 🔭 Currently working on **Computacenter**
+- 🔭 Currently working on Computacenter AG & Co. oHG
 
-- 📫 **cihangueler.de@gmail.com**
+- 📫 cihangueler.de@gmail.com
 
 <p align="left">
 </p>
@@ -50,4 +50,25 @@
         </p>
       </div>
 </div>
+
+  <!-- ***** Footer ***** -->
+
+  <footer role="contentinfo" class="footer">
+        <li class="footer__social-link-item">
+          <a href="https://github.com/cihanguler" title="Link to Github Profile">
+            <img src="img/github.svg" class="footer__social-image" alt="Github">
+          </a>
+        </li>       
+        <li class="footer__social-link-item">
+          <a href="https://linkedin.com/in/cihangueler">
+            <img src="img/linkedin.svg" title="Link to Linkedin Profile" class="footer__social-image" alt="Linkedin">
+          </a>
+        </li>
+      </ul>
+   
+      <p>
+        © 2022 - Developed by <a href="https://cihangueler-cihanguler.vercel.app" class="link">Cihan</a>.
+      </p>      
+    </div>
+  </footer>
 

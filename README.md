@@ -46,10 +46,8 @@
         <h3>Follow Me</h3>
         <p>
           <a href="https://linkedin.com/in/cihangueler" target="_blank">Linkedin</a>  <p/> 
-          <a href="https://resume-cihanguler.vercel.app/" target="_blank">Web Site</a>
-          <a href="mailto:cihangueler.de@gmail.com" target="_blank">E-Mail</a>
-
-        </p>
+          <a href="https://resume-cihanguler.vercel.app/" target="_blank">Web Site</a>   </p>
+          <a href="mailto:cihangueler.de@gmail.com" target="_blank">E-Mail</a>   </p>
       </div>
 </div>
 

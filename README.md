@@ -46,29 +46,11 @@
         <h3>Follow Me</h3>
         <p>
           <a href="https://linkedin.com/in/cihangueler" target="_blank">Linkedin</a>  <p/> 
-          <a href="https://resume-one-zeta.vercel.app" target="_blank">Web Site</a>
+          <a href="https://resume-cihanguler.vercel.app/" target="_blank">Web Site</a>
+          <a href="mailto:cihangueler.de@gmail.com" target="_blank">E-Mail</a>
+
         </p>
       </div>
 </div>
 
-  <!-- ***** Footer ***** -->
-
-  <footer role="contentinfo" class="footer">
-        <li class="footer__social-link-item">
-          <a href="https://github.com/cihanguler" title="Link to Github Profile">
-            <img src="img/github.svg" class="footer__social-image" alt="Github">
-          </a>
-        </li>       
-        <li class="footer__social-link-item">
-          <a href="https://linkedin.com/in/cihangueler">
-            <img src="img/linkedin.svg" title="Link to Linkedin Profile" class="footer__social-image" alt="Linkedin">
-          </a>
-        </li>
-      </ul>
-   
-      <p>
-        © 2022 - Developed by <a href="https://cihangueler-cihanguler.vercel.app" class="link">Cihan</a>.
-      </p>      
-    </div>
-  </footer>
 

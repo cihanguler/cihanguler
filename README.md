@@ -2,7 +2,7 @@
 
 <h1 align="center">Cihan Gueler</h1>
 
-<h3 align="center">Software Test Engineer / QA</h3>
+<h3 align="center">Software Test Automation Engineer / QA</h3>
     <div class="content">
         <div class="description">
           <h1></h1>

@@ -17,9 +17,7 @@
           </p>
         </div>
   </div>
-- 🔭 Currently working on Computacenter AG & Co. oHG
-
-- 📫 cihangueler.de@gmail.com
+                                - 🔭 Currently working on Computacenter AG & Co. oHG
 
 <p align="left">
 </p>

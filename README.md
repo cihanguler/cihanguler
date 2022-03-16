@@ -44,8 +44,8 @@
         <h3>Follow Me</h3>
         <p>
           <a href="https://linkedin.com/in/cihangueler" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" alt="Linkedin" width="100" height="60"/>Linkedin</a>  <p/> 
-          <a href="https://resume-cihanguler.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/564x/f3/7c/88/f37c88e8750ac1437782420f55b1df21.jpg" alt="Website" width="100" height="60"/> Website </a>   </p>
-          <a href="mailto:cihangueler.de@gmail.com" target="_blank"  rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2165/2165310.png" alt="E-Mail" width="100" height="60"/> E-Mail </a>  
+          <a href="https://resume-cihanguler.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/564x/f3/7c/88/f37c88e8750ac1437782420f55b1df21.jpg" alt="Website" width="40" height="40"/> Website </a>   </p>
+          <a href="mailto:cihangueler.de@gmail.com" target="_blank"  rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2165/2165310.png" alt="E-Mail" width="40" height="40"/> E-Mail </a>  
       </div>
 </div>
 

@@ -19,7 +19,7 @@
   </div>
                                 - 🔭 Currently working on Computacenter AG & Co. oHG
 
-<p align="left">
+<p align="middle">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

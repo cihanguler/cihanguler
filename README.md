@@ -2,7 +2,7 @@
 
 <h1 align="center">Cihan Gueler</h1>
 
-<h3 align="center">ISTQB Certified Software Test Automation & QA Engineer with 3+ Years of Experience | Auditor | Senior Inspector with 5+ Years of Experience | IT Specialist </h3>
+<h3 align="center"> Currently working on Computacenter AG Co. & oHG | ISTQB Certified Software Test Automation & QA Engineer with 3+ Years of Experience | Senior Inspector with 5+ Years of Experience | IT Specialist | Auditor </h3>
     <div class="content">
         <div class="description">
           <h1></h1>

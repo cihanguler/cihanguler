@@ -2,7 +2,7 @@
 
 <h1 align="center">Cihan Gueler</h1>
 
-<h3 align="center">Software Test Automation & QA Engineer / Computacenter AG & Co. oHG </h3>
+<h3 align="center">IT Specialist | Software Test Automation & QA Engineer | Computacenter AG & Co. oHG </h3>
     <div class="content">
         <div class="description">
           <h1></h1>

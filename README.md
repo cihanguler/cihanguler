@@ -17,6 +17,9 @@
           </p>
         </div>
   </div>
+  
+  ### Blogs posts
+  <a href ="https://medium.com/@cihanguler" > < img src ="https://github-readme-medium.vercel.app/?username=cihanguler">
 
 <p align="left">
 </p>

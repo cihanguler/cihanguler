@@ -19,7 +19,7 @@
   </div>
   
   ### Blogs posts
-  <a href ="https://medium.com/@cihanguler" > < img src ="https://github-readme-medium.vercel.app/?username=cihanguler">
+  <a href ="https://medium.com/@cihanguler"><img src ="https://github-readme-medium.vercel.app/?username=cihanguler"> <a/>
 
 <p align="left">
 </p>

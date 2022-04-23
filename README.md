@@ -2,7 +2,7 @@
 
 <h1 align="center">Cihan Gueler</h1>
 
-<h3 align="center"> Currently working on Computacenter AG Co. & oHG | ISTQB Certified Software Test Automation & QA Engineer with 3+ Years of Experience | Senior Inspector with 5+ Years of Experience | IT Specialist | Auditor </h3>
+<h3 align="center"> Currently working on Computacenter AG Co. & oHG | ISTQB® Certified Software Test Automation & QA Engineer with 3+ Years of Experience | Senior Inspector with 5+ Years of Experience | IT Specialist | Auditor </h3>
     <div class="content">
         <div class="description">
           <h1></h1>
@@ -10,7 +10,7 @@
             Extensive experience in the business world since 2011 and experience as a Test Automation Engineer since 2017.
             Sound knowledge of the Software Development Life Cycle (SDLC), the Software Test Life Cycle (STLC), the
             Defect Life Cycle, the Agile Scrum method. Knowledge of database, API testing and automation testing
-            with automation tools Selenium, Cucumber, Gherkin, JUnit, TestNG in DDT, BDD frameworks with Java.
+            with automation tools Cypress.io, Robotframework, Selenium, Cucumber, Gherkin, JUnit, TestNG in DDT, BDD frameworks with Java, Python and Javascript.
             Strong analytical and logical thinking skills, focused on solving problems. 
             Fast learner and adaptable to changing circumstances as well as more detail oriented and awesome
             team player.
@@ -32,6 +32,9 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML</a> <p></p>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> Java </a> <p></p>
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> Jenkins </a> <p></p>
+    <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/cypress.svg" alt="Cypress.io" width="40" height="40"/> Cypress.io </a> <p></p>
+    <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://icon-icons.com/de/symbol/RobotFramework/132027" alt="RobotFramework" width="40" height="40"/> RobotFramework </a> <p></p>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40"/> Javascript </a> <p></p>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> Linux </a> <p></p>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> MySql </a> <p></p>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> Oracle </a> <p></p>
@@ -47,7 +50,7 @@
         <h3>Follow Me</h3>
         <p>
           <a href="https://linkedin.com/in/cihangueler" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="40" height="40"/>Linkedin</a>  <p/> 
-          <a href="https://resume-cihanguler.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/564x/f3/7c/88/f37c88e8750ac1437782420f55b1df21.jpg" alt="Website" width="40" height="40"/> Website </a>   </p>
+          <a href="https://resume-cihanguler.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/564x/f3/7c/88/f37c88e8750ac1437782420f55b1df21.jpg" alt="Resume" width="40" height="40"/> Resume </a>   </p>
               <a href="https://medium.com/@cihanguler" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="Medium" width="40" height="40"/>Medium</a>  <p/> 
           <a href="mailto:cihangueler.de@gmail.com" target="_blank"  rel="noreferrer"> <img src="https://as1.ftcdn.net/v2/jpg/02/73/74/34/1000_F_273743445_8NsO173YKt3qKssAjPPGDLj4TcUlBsNA.jpg" alt="E-Mail" width="40" height="40"/> E-Mail </a>  
       </div>

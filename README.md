@@ -33,7 +33,6 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> Java </a> <p></p>
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> Jenkins </a> <p></p>
     <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/cypress.svg" alt="Cypress.io" width="40" height="40"/> Cypress.io </a> <p></p>
-    <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://www.onlinewebfonts.com/icon/571640" alt="RobotFramework" width="40" height="40"/> RobotFramework </a> <p></p>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/4727/38117842-2d270f22-336c-11e8-8413-e5daf9ae41e9.png" alt="Javascript" width="40" height="40"/> Javascript </a> <p></p>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> Linux </a> <p></p>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> MySql </a> <p></p>
